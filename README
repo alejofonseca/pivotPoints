@@ -1,0 +1,20 @@
+////////////////////////
+PIVOT POINTS APPLICATION
+////////////////////////
+
+In Engineering as well as in other fields like Economics, 
+data is tested over some periods of time and represented 
+graphically (in most cases). Some times, it is crucial to
+estimate future values for data based on previous analysis. 
+The Pivot Points theory is one of the principles that 
+people use to accomplish this. It is very easy to use and
+only requires the input of three elements: The highest and
+lowest values the particular function has taken over the 
+evaluated period of time, and the last value at which the
+function was tested in the same time period. As a result
+the application delivers three resistances or positive
+pivot points, three supports or negative points and a 
+central pivot point.
+
+Simply enter the three values in the text boxes below and click the button to
+calculate the results.
