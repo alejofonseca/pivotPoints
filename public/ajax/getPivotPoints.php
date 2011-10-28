@@ -2,7 +2,7 @@
 include '../../protected/classes/pivotPoints.php';
 include '../../protected/classes/pivotCalculations.php';
 
-$dataFields = json_decode($_POST['data'],true);
+$dataFields = json_decode(stripslashes($_POST['data']),true);
 
 $pivotCalc = new PivotCalculations($dataFields['high'],
 				 $dataFields['low'], $dataFields['close']);
